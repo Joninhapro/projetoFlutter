@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "577486992726",
+    "project_id": "loja-flutter-a244e",
+    "storage_bucket": "loja-flutter-a244e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577486992726:android:33b6ffc85bcc216d5412f7",
+        "android_client_info": {
+          "package_name": "br.com.martins.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577486992726-29spi1j6jibdc9sdcp267vam6s2276lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnHowFyJIHHi-vCwLXzCEd1UJQPKOR8FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577486992726-29spi1j6jibdc9sdcp267vam6s2276lv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
